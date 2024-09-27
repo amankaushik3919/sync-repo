@@ -8,6 +8,5 @@ class Solution {
             ar.add(nums[i]);
         }
         return false;
-
     }
 }
